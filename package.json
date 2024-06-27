@@ -1,0 +1,19 @@
+{
+  "name": "virtual-scrollbar",
+  "version": "0.0.1",
+  "description": "virtual scrollbar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jumodada/virtual-scrollbar.git"
+  },
+  "author": "jumodada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jumodada/virtual-scrollbar/issues"
+  },
+  "homepage": "https://github.com/jumodada/virtual-scrollbar#readme"
+}
